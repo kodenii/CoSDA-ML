@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<img align="right" src="img/SCIR.jpg" width="12%"><img align="right" src="img/WestLake.jpg" width="15%">
 
-This repository is for the IJCAI-2020 paper: [CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://arxiv.org/)
+This repository is for the IJCAI-2020 paper: [CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP](https://arxiv.org/pdf/2006.06402)
 
 If you use any source codes or ideas included in this repository for your work, please cite the following paper.
 <pre>
