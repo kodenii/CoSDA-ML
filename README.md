@@ -6,7 +6,14 @@ This repository is for the IJCAI-2020 paper: [CoSDA-ML: Multi-Lingual Code-Switc
 
 If you use any source codes or ideas included in this repository for your work, please cite the following paper.
 <pre>
-Waiting for arXiv.
+@misc{qin2020cosdaml,
+    title={CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP},
+    author={Libo Qin and Minheng Ni and Yue Zhang and Wanxiang Che},
+    year={2020},
+    eprint={2006.06402},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
 </pre>
 
 If you have any questions, feel free to email [me](mhni@ir.hit.edu.cn).
