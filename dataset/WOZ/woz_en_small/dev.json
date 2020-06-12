@@ -1,0 +1,140 @@
+[ {
+        "dialogue_idx": 600,
+        "dialogue": [
+            {
+                "turn_label": [
+                    [
+                        "area",
+                        "south"
+                    ],
+                    [
+                        "price range",
+                        "expensive"
+                    ]
+                ],
+                "asr": [
+                    [
+                        "I'm looking for an expensive restaurant in the south part of town.",
+                        1.0
+                    ]
+                ],
+                "system_transcript": "",
+                "turn_idx": 0,
+                "belief_state": [
+                    {
+                        "slots": [
+                            [
+                                "price range",
+                                "expensive"
+                            ]
+                        ],
+                        "act": "inform"
+                    },
+                    {
+                        "slots": [
+                            [
+                                "area",
+                                "south"
+                            ]
+                        ],
+                        "act": "inform"
+                    }
+                ],
+                "transcript": "I'm looking for an expensive restaurant in the south part of town.",
+                "system_acts": []
+            },
+            {
+                "turn_label": [
+                    [
+                        "request",
+                        "phone"
+                    ],
+                    [
+                        "request",
+                        "address"
+                    ]
+                ],
+                "asr": [
+                    [
+                        "Okay, what is the next one after that.  And can I get the address and phone number both, please?",
+                        1.0
+                    ]
+                ],
+                "system_transcript": "There is a restaurant called chiquito restaurant bar.",
+                "turn_idx": 1,
+                "belief_state": [
+                    {
+                        "slots": [
+                            [
+                                "slot",
+                                "phone"
+                            ]
+                        ],
+                        "act": "request"
+                    },
+                    {
+                        "slots": [
+                            [
+                                "slot",
+                                "address"
+                            ]
+                        ],
+                        "act": "request"
+                    },
+                    {
+                        "slots": [
+                            [
+                                "price range",
+                                "expensive"
+                            ]
+                        ],
+                        "act": "inform"
+                    },
+                    {
+                        "slots": [
+                            [
+                                "area",
+                                "south"
+                            ]
+                        ],
+                        "act": "inform"
+                    }
+                ],
+                "transcript": "Okay, what is the next one after that.  And can I get the address and phone number both, please?",
+                "system_acts": []
+            },
+            {
+                "turn_label": [],
+                "asr": [
+                    [
+                        "Thank you. You have been most helpful.",
+                        1.0
+                    ]
+                ],
+                "system_transcript": "Chicquito's is located at 2G Cambridge Leisure Park Cherry Hinton Road Cherry Hinton, Phone 01223 400170, and the restaurant below that is called frankie and bennys. It has a phone number of 01223 412430 and address of Cambridge Leisure Park Clifton Way Cherry Hinton",
+                "turn_idx": 2,
+                "belief_state": [
+                    {
+                        "slots": [
+                            [
+                                "price range",
+                                "expensive"
+                            ]
+                        ],
+                        "act": "inform"
+                    },
+                    {
+                        "slots": [
+                            [
+                                "area",
+                                "south"
+                            ]
+                        ],
+                        "act": "inform"
+                    }
+                ],
+                "transcript": "Thank you. You have been most helpful.",
+                "system_acts": []
+            }
+        ]
+    }]
