@@ -16,7 +16,7 @@ If you use any source codes or ideas included in this repository for your work, 
 }
 </pre>
 
-If you have any questions, feel free to email [me](mhni@ir.hit.edu.cn).
+If you have any questions, feel free to email [me](Mailto://mhni@ir.hit.edu.cn).
 
 ## Abstract
 
