@@ -61,7 +61,18 @@ Please note that our framework also worked without any pre-trained model.  You c
 
 We also provide the model saved file to help you reproduce the results. Please download from the following links. Note that if you want to reproduce of BERT-based task identically, you also need to use the BERT version that we provided. 
 
-(Please wait for uploading.)
+| Task        | Model       | Link                                         |
+| ----------- | ----------- | -------------------------------------------- |
+| DST         | BERT        | [Download](https://kodeniimlworkspace.blob.core.windows.net/data/old/DST_bert.pkl?sv=2020-10-02&st=2022-05-27T08%3A54%3A49Z&se=2024-05-28T08%3A54%3A00Z&sr=b&sp=r&sig=lpiWxhU6M%2B0zWqejCWFw%2Fa9UTs8P1yMHXWJQAfPIEBs%3D) |
+| DST         | XLM         | [Download](https://kodeniimlworkspace.blob.core.windows.net/data/old/DST_xlm.pkl?sv=2020-10-02&st=2022-05-27T08%3A54%3A11Z&se=2024-05-28T08%3A54%3A00Z&sr=b&sp=r&sig=bT0%2Bo2nwgebPtYCsO9bGFjNmqf6VToDozykpErW3z0w%3D) |
+| MLDoc       | BERT        | [Download](https://kodeniimlworkspace.blob.core.windows.net/data/old/MLDoc_bert.pkl?sv=2020-10-02&st=2022-05-27T08%3A56%3A37Z&se=2024-05-28T08%3A56%3A00Z&sr=b&sp=r&sig=6awR1DhWIIG5u7WYpTcpOd96%2BrM6r0JIktiIHdxF0OU%3D) |
+| MLDoc       | XLM         | [Download](https://kodeniimlworkspace.blob.core.windows.net/data/old/MLDoc_xlm.pkl?sv=2020-10-02&st=2022-05-27T09%3A03%3A17Z&se=2024-05-28T09%3A03%3A00Z&sr=b&sp=r&sig=Pu67SSYs7vI7%2BP9YrfB3gait295X2Ly9sA7xHUhVTTA%3D) |
+| SC2         | BERT        | [Download](https://kodeniimlworkspace.blob.core.windows.net/data/old/SC2_bert.pkl?sv=2020-10-02&st=2022-05-27T09%3A03%3A33Z&se=2024-05-28T09%3A03%3A00Z&sr=b&sp=r&sig=8A7cgTHrY92G1DJ5%2FHB%2F8T%2BxYg5J60zK642XA%2B2M%2BEk%3D) |
+| SC2         | XLM         | [Download](https://kodeniimlworkspace.blob.core.windows.net/data/old/SC2_xlm.pkl?sv=2020-10-02&st=2022-05-27T09%3A03%3A48Z&se=2024-05-28T09%3A03%3A00Z&sr=b&sp=r&sig=N6xRxFmyyhLubtGK879QwvEusCaJDtZ9I97%2FmibyolI%3D) |
+| SC4         | BERT        | [Download](https://kodeniimlworkspace.blob.core.windows.net/data/old/SC4_bert.pkl?sv=2020-10-02&st=2022-05-27T09%3A04%3A08Z&se=2024-05-28T09%3A04%3A00Z&sr=b&sp=r&sig=6iWFGilS8B%2FTGcia1fNlnvSOZ58Hebz5PkXd6JrYKeU%3D) |
+| SC4         | XLM         | [Download](https://kodeniimlworkspace.blob.core.windows.net/data/old/SC4_xlm.pkl?sv=2020-10-02&st=2022-05-27T09%3A04%3A22Z&se=2024-05-28T09%3A04%3A00Z&sr=b&sp=r&sig=TzDqq5MkddoyRFIJSoE4G6uIAnMaibLQDgyVE%2FL3v88%3D) |
+| XTDS        | BERT        | [Download](https://kodeniimlworkspace.blob.core.windows.net/data/old/XTDS_bert.pkl?sv=2020-10-02&st=2022-05-27T09%3A04%3A36Z&se=2024-05-28T09%3A04%3A00Z&sr=b&sp=r&sig=p2YSRRXUEXEI2et9C8OoxNz8JFSHY9usTjaL1humbSg%3D) |
+| XTDS        | XLM         | [Download](https://kodeniimlworkspace.blob.core.windows.net/data/old/XTDS_xlm.pkl?sv=2020-10-02&st=2022-05-27T09%3A04%3A50Z&se=2024-05-28T09%3A04%3A00Z&sr=b&sp=r&sig=tc7CkjXLMOcGZwX3ch1y1gMwdsRdnj4OmjOooCWvEv4%3D) |
 
 ## Framework Usage
 
